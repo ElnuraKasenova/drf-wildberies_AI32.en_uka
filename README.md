@@ -1,0 +1,1 @@
+# drf-wildberies_AI32.en_uka
